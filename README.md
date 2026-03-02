@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0A192F,50:00D4FF,100:0066FF&height=220&section=header&text=LUIS%20CASTA%C3%91O&fontSize=55&fontColor=00D4FF&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20UX%2FUI%20Designer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI-Powered%20Experiences%20%E2%9A%A1&descSize=15&descAlignY=58&descAlign=50&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:003D66,100:00D4FF&height=220&section=header&text=LUIS%20CASTA%C3%91O&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=UX%2FUI%20Designer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20AI-Powered%20Experiences&descSize=15&descAlignY=55&descAlign=50&descColor=00D4FF"/>
 
 <div align="center">
 
@@ -24,37 +24,43 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;`> whoami`
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" alt="Coding GIF"/>
+<div align="center">
+<br/>
 
-```js
-const luisCastaño = {
-    role: "UX/UI Designer & Frontend Developer",
-    education: "Master in UX/UI Design",
-    location: "Bogotá, Colombia",
-    experience: "10+ projects delivered",
+<table>
+<tr>
+<td width="50%">
 
-    skills: {
-        design: ["Figma", "Adobe XD", "Illustrator", "Photoshop"],
-        frontend: ["React", "Next.js", "Vue", "TypeScript", "Tailwind"],
-        ai_tools: ["Claude", "Cursor", "V0.dev", "Bolt"],
-        methodology: "Vibe Coding + Design Thinking"
-    },
+<img src="https://img.shields.io/badge/ROLE-UX%2FUI_Designer_&_Frontend_Dev-00D4FF?style=for-the-badge&labelColor=0A192F"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/EDUCATION-Master_in_UX%2FUI_Design-00D4FF?style=for-the-badge&labelColor=0A192F"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/LOCATION-Bogot%C3%A1%2C_Colombia-00D4FF?style=for-the-badge&labelColor=0A192F"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/EXPERIENCE-10%2B_Projects_Delivered-00D4FF?style=for-the-badge&labelColor=0A192F"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/METHODOLOGY-Vibe_Coding_+_Design_Thinking-00D4FF?style=for-the-badge&labelColor=0A192F"/>
 
-    currently: () => {
-        return "Building AI-powered digital experiences";
-    },
+</td>
+<td width="50%">
 
-    available: true // Let's work together!
-};
-```
+<img width="100%" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" alt="Coding GIF"/>
 
-<br clear="both"/>
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+<img src="https://img.shields.io/badge/Currently-Building_AI--powered_digital_experiences-0A192F?style=for-the-badge&logo=rocket&logoColor=00D4FF"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;`> tech_stack --list`
 
@@ -117,38 +123,77 @@ const luisCastaño = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## &nbsp;`> services --verbose`
 
 <div align="center">
 <br/>
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   [01]  UX/UI DESIGN ─────────── Interfaces intuitivas centradas en     │
-│                                   el usuario con metodología Design      │
-│                                   Thinking                               │
-│                                                                          │
-│   [02]  FRONTEND DEV ─────────── Aplicaciones web modernas, rápidas     │
-│                                   y 100% responsivas                     │
-│                                                                          │
-│   [03]  AI-POWERED APPS ──────── Experiencias inteligentes potenciadas  │
-│                                   con inteligencia artificial            │
-│                                                                          │
-│   [04]  DESIGN SYSTEMS ───────── Sistemas de diseño escalables y        │
-│                                   consistentes para equipos              │
-│                                                                          │
-│   [05]  VIBE CODING ──────────── Desarrollo acelerado con herramientas  │
-│                                   de IA de última generación             │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/01-0A192F?style=for-the-badge&logoColor=00D4FF" alt="01"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/UX%2FUI_DESIGN-00D4FF?style=for-the-badge&logoColor=white" alt="UX/UI"/>
+<br/><br/>
+<sub>Interfaces intuitivas y atractivas centradas en el usuario con Design Thinking</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/02-0A192F?style=for-the-badge&logoColor=00D4FF" alt="02"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/FRONTEND_DEV-00D4FF?style=for-the-badge&logoColor=white" alt="Frontend"/>
+<br/><br/>
+<sub>Aplicaciones web modernas, rapidas y 100% responsivas</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/03-0A192F?style=for-the-badge&logoColor=00D4FF" alt="03"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/AI--POWERED_APPS-00D4FF?style=for-the-badge&logoColor=white" alt="AI Apps"/>
+<br/><br/>
+<sub>Experiencias inteligentes potenciadas con inteligencia artificial</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/04-0A192F?style=for-the-badge&logoColor=00D4FF" alt="04"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/DESIGN_SYSTEMS-00D4FF?style=for-the-badge&logoColor=white" alt="Design Systems"/>
+<br/><br/>
+<sub>Sistemas de diseño escalables y consistentes para equipos</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/05-0A192F?style=for-the-badge&logoColor=00D4FF" alt="05"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/VIBE_CODING-00D4FF?style=for-the-badge&logoColor=white" alt="Vibe Coding"/>
+<br/><br/>
+<sub>Desarrollo acelerado con herramientas de IA de ultima generacion</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<img src="https://img.shields.io/badge/06-0A192F?style=for-the-badge&logoColor=00D4FF" alt="06"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/CONSULTING-00D4FF?style=for-the-badge&logoColor=white" alt="Consulting"/>
+<br/><br/>
+<sub>Asesoria en UX, estrategia digital y mejores practicas de frontend</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## &nbsp;`> git stats --all`
 
@@ -168,7 +213,7 @@ const luisCastaño = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## &nbsp;`> contributions --snake`
 
@@ -182,40 +227,47 @@ const luisCastaño = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## &nbsp;`> contact --hire-me`
 
 <div align="center">
 <br/>
 
-```
-  ╔═══════════════════════════════════════════════════════════════════════╗
-  ║                                                                       ║
-  ║   > "Design is not just what it looks like and feels like.            ║
-  ║      Design is how it works."                                         ║
-  ║                                                                       ║
-  ║      — Steve Jobs                                                     ║
-  ║                                                                       ║
-  ╚═══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=18&duration=4000&pause=2000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%22Design+is+not+just+what+it+looks+like.+Design+is+how+it+works.%22+%E2%80%94+Steve+Jobs" alt="Quote"/>
 
 <br/>
 
+<table>
+<tr>
+<td align="center">
+<br/>
 <a href="mailto:Castanoluis727@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_HIRE_ME_-_LET'S_BUILD_SOMETHING_GREAT-0A192F?style=for-the-badge&logo=lightning&logoColor=00D4FF" alt="Hire Me"/>
+  <img src="https://img.shields.io/badge/EMAIL-Castanoluis727%40gmail.com-0A192F?style=for-the-badge&logo=gmail&logoColor=00D4FF" alt="Email"/>
 </a>
-
 <br/><br/>
+<a href="https://www.linkedin.com/in/castanoluis">
+  <img src="https://img.shields.io/badge/LINKEDIN-Luis_Casta%C3%B1o-0A192F?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn"/>
+</a>
+<br/><br/>
+<a href="https://github.com/castanoluisDev">
+  <img src="https://img.shields.io/badge/GITHUB-castanoluisDev-0A192F?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub"/>
+</a>
+<br/><br/>
+<a href="mailto:Castanoluis727@gmail.com">
+  <img src="https://img.shields.io/badge/HIRE_ME-LET'S_BUILD_SOMETHING_GREAT-00D4FF?style=for-the-badge&logoColor=white" alt="Hire Me"/>
+</a>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://img.shields.io/github/followers/castanoluisDev?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0A192F" alt="Followers"/>
 &nbsp;
 <img src="https://img.shields.io/github/stars/castanoluisDev?label=Stars&style=for-the-badge&color=00D4FF&labelColor=0A192F" alt="Stars"/>
 
-<br/><br/>
-
-*`> echo "If you like my work, drop a star!"`* &nbsp; **`_`**
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0A192F,50:00D4FF,100:0066FF&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:003D66,100:00D4FF&height=120&section=footer"/>
