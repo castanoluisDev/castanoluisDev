@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Luis Castaño — UX/UI Designer and Frontend Developer building AI-powered experiences">
+  <title>Luis Castaño — UX/UI Designer · Frontend Developer</title>
+  <defs>
+    <!-- The ground: deep navy, lifted very slightly towards the accent on the
+         right so the panel has a direction instead of being a flat rectangle. -->
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0a192f"/>
+      <stop offset="1" stop-color="#0d2439"/>
+    </linearGradient>
+
+    <!-- The glow behind the wordmark. Radial, anchored off the left edge so the
+         name sits in the brightest part and the right side stays quiet for the
+         prompt line. -->
+    <radialGradient id="glow" cx="0.22" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#00d4ff" stop-opacity="0.20"/>
+      <stop offset="0.6" stop-color="#00d4ff" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d4ff" stop-opacity="0.9"/>
+      <stop offset="0.7" stop-color="#00d4ff" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Hairline grid, the one nod to the terminal that is not a character. -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#00d4ff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="260" rx="16" fill="url(#ground)"/>
+  <rect width="1000" height="260" rx="16" fill="url(#grid)"/>
+  <rect width="1000" height="260" rx="16" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="999" height="259" rx="16" fill="none" stroke="#00d4ff" stroke-opacity="0.22"/>
+
+  <!-- Window chrome: three dots, the cheapest way to say "terminal" without
+       spelling it. The accent one is last so the eye travels left to right. -->
+  <g transform="translate(28 30)">
+    <circle cx="0" cy="0" r="5" fill="#1e3a52"/>
+    <circle cx="18" cy="0" r="5" fill="#1e3a52"/>
+    <circle cx="36" cy="0" r="5" fill="#00d4ff" fill-opacity="0.75"/>
+  </g>
+
+  <!-- The prompt, above the name: it frames the wordmark as output. -->
+  <text x="28" y="86" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace"
+        font-size="15" letter-spacing="1.5" fill="#00d4ff" fill-opacity="0.85">
+    <tspan fill="#5b7a94">$</tspan> whoami
+  </text>
+
+  <!-- The wordmark. Monospace and wide-tracked: it reads as a nameplate rather
+       than a heading, and it is the same voice as the section prompts below. -->
+  <text x="26" y="150" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace"
+        font-size="52" font-weight="700" letter-spacing="2" fill="#ffffff">LUIS CASTAÑO</text>
+
+  <rect x="28" y="172" width="300" height="2" rx="1" fill="url(#rule)"/>
+
+  <text x="28" y="205" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace"
+        font-size="16" letter-spacing="0.6" fill="#c9d1d9">
+    UX/UI Designer <tspan fill="#00d4ff" fill-opacity="0.55">·</tspan> Frontend Developer
+    <tspan fill="#00d4ff" fill-opacity="0.55">·</tspan> AI-Powered Experiences
+  </text>
+
+  <text x="28" y="232" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace"
+        font-size="13" letter-spacing="0.4" fill="#5b7a94">
+    Master in UX/UI Design <tspan fill="#00d4ff" fill-opacity="0.4">—</tspan> 10+ apps &amp; sites designed, built and shipped
+  </text>
+
+  <!-- Right-hand mark: concentric arcs reading as a cursor sweep. Decorative,
+       so it is out of the accessibility tree; the label lives on the root. -->
+  <g transform="translate(838 130)" fill="none" stroke="#00d4ff" aria-hidden="true">
+    <circle r="86" stroke-opacity="0.10"/>
+    <circle r="62" stroke-opacity="0.16"/>
+    <circle r="38" stroke-opacity="0.24"/>
+    <path d="M0 -86 A86 86 0 0 1 74 43" stroke-opacity="0.75" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0 -38 A38 38 0 0 0 -33 19" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="-86" r="4" fill="#00d4ff" stroke="none"/>
+  </g>
+</svg>

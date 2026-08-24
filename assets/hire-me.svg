@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="64" viewBox="0 0 420 64" role="img" aria-label="Let's build something great">
+  <title>Let's build something great</title>
+  <defs>
+    <linearGradient id="plate" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00d4ff"/>
+      <stop offset="1" stop-color="#22e0ff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- The one filled-accent call to action in the page, and the reason it is a
+       committed asset rather than a shields badge: on this cyan the label has to
+       be NAVY (9.94:1), and shields picks the label colour itself. It used to be
+       white here, which measures 1.77:1. -->
+  <rect x="1" y="1" width="418" height="62" rx="12" fill="url(#plate)"/>
+  <rect x="1.5" y="1.5" width="417" height="61" rx="12" fill="none" stroke="#0a192f" stroke-opacity="0.25"/>
+
+  <text x="210" y="30" text-anchor="middle"
+        font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace"
+        font-size="15" font-weight="700" letter-spacing="1.6" fill="#0a192f">LET'S BUILD SOMETHING GREAT</text>
+
+  <text x="210" y="49" text-anchor="middle"
+        font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace"
+        font-size="11.5" letter-spacing="0.6" fill="#0a192f" fill-opacity="0.72">Castanoluis727@gmail.com</text>
+</svg>
