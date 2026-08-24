@@ -15,25 +15,8 @@
 <div align="center">
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-UX%2FUI_Designer_&_Frontend_Dev-0A192F?style=for-the-badge&labelColor=00D4FF&color=0A192F"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LOCATION-Bogot%C3%A1%2C_Colombia-0A192F?style=for-the-badge&labelColor=00D4FF&color=0A192F"/>
+<img src="assets/whoami.svg" width="100%" alt="ROLE: UX/UI Designer &amp; Frontend Developer · EDUCATION: Master in UX/UI Design · LOCATION: Bogotá, Colombia · EXPERIENCE: 10+ apps &amp; sites designed, built and shipped · METHODOLOGY: Vibe Coding + Design Thinking · CURRENTLY: Building AI-powered digital experiences"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/EDUCATION-Master_in_UX%2FUI_Design-0A192F?style=for-the-badge&labelColor=00D4FF&color=0A192F"/>
-&nbsp;
-<img src="https://img.shields.io/badge/EXPERIENCE-10%2B_Projects_Delivered-0A192F?style=for-the-badge&labelColor=00D4FF&color=0A192F"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/METHODOLOGY-Vibe_Coding_%2B_Design_Thinking-0A192F?style=for-the-badge&labelColor=00D4FF&color=0A192F"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Currently-Building_AI--powered_digital_experiences-0A192F?style=for-the-badge&logo=rocket&logoColor=00D4FF"/>
-
-<br/>
 </div>
 
 <img src="assets/rule.svg" width="100%" alt=""/>
@@ -43,58 +26,11 @@
 <div align="center">
 <br/>
 
-<table>
-<tr>
-<td align="center" width="50%">
+<img src="assets/stack.svg" width="100%" alt="Design &amp; UX/UI: Figma expert, Design Systems advanced, Prototyping advanced. Frontend: React proficient, Next.js proficient, Tailwind advanced. Tools &amp; DevOps: Git proficient, Vercel proficient, CI/CD intermediate. AI &amp; Vibe Coding: Vibe Coding expert, AI Integration advanced."/>
 
-### `// Design & UX/UI`
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,ae&theme=dark" alt="Figma, XD, Illustrator, Photoshop, After Effects"/>
-
-<img src="https://img.shields.io/badge/Figma-Expert-00D4FF?style=flat-square&logo=figma&logoColor=00D4FF&labelColor=0A192F"/>
-<img src="https://img.shields.io/badge/Design_Systems-Advanced-00D4FF?style=flat-square&labelColor=0A192F"/>
-<img src="https://img.shields.io/badge/Prototyping-Advanced-00D4FF?style=flat-square&labelColor=0A192F"/>
-
-</td>
-<td align="center" width="50%">
-
-### `// Frontend`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Tailwind, Sass"/>
-
-<img src="https://img.shields.io/badge/React-Proficient-00D4FF?style=flat-square&logo=react&logoColor=00D4FF&labelColor=0A192F"/>
-<img src="https://img.shields.io/badge/Next.js-Proficient-00D4FF?style=flat-square&logo=next.js&logoColor=00D4FF&labelColor=0A192F"/>
-<img src="https://img.shields.io/badge/Tailwind-Advanced-00D4FF?style=flat-square&logo=tailwindcss&logoColor=00D4FF&labelColor=0A192F"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### `// Tools & DevOps`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,firebase,notion&theme=dark" alt="Git, GitHub, VS Code, Vercel, Netlify, Firebase, Notion"/>
-
-<img src="https://img.shields.io/badge/Git-Proficient-00D4FF?style=flat-square&logo=git&logoColor=00D4FF&labelColor=0A192F"/>
-<img src="https://img.shields.io/badge/Vercel-Proficient-00D4FF?style=flat-square&logo=vercel&logoColor=00D4FF&labelColor=0A192F"/>
-<img src="https://img.shields.io/badge/CI%2FCD-Intermediate-00D4FF?style=flat-square&labelColor=0A192F"/>
-
-</td>
-<td align="center" width="50%">
-
-### `// AI & Vibe Coding`
-
-<img src="https://img.shields.io/badge/Claude_Code-0A192F?style=for-the-badge&logo=anthropic&logoColor=00D4FF" alt="Claude Code"/>
-<img src="https://img.shields.io/badge/Cursor_AI-0A192F?style=for-the-badge&logo=cursor&logoColor=00D4FF" alt="Cursor AI"/>
-<img src="https://img.shields.io/badge/V0.dev-0A192F?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="V0.dev"/>
-<img src="https://img.shields.io/badge/Bolt.new-0A192F?style=for-the-badge&logo=lightning&logoColor=00D4FF" alt="Bolt.new"/>
-
-<img src="https://img.shields.io/badge/Vibe_Coding-Expert-00D4FF?style=flat-square&labelColor=0A192F"/>
-<img src="https://img.shields.io/badge/AI_Integration-Advanced-00D4FF?style=flat-square&labelColor=0A192F"/>
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,ae,html,css,js,ts,react,nextjs,vue,tailwind,sass,git,github,vscode,vercel,netlify,firebase,notion&perline=11&theme=dark" alt="Figma, XD, Illustrator, Photoshop, After Effects, HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Tailwind, Sass, Git, GitHub, VS Code, Vercel, Netlify, Firebase, Notion"/>
 
 </div>
 
