@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="247" height="46" viewBox="0 0 247 46" role="img" aria-label="&gt; git stats --all">
+  <title>&gt; git stats --all</title>
+  <defs>
+    <linearGradient id="r-stats" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d4ff" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <text x="4" y="29" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="21" font-weight="700" fill="#00d4ff">&gt;</text>
+  <text x="30.6" y="29" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="21" font-weight="700" letter-spacing="0.5" fill="#c9d1d9">git stats --all</text>
+  <rect x="4" y="39" width="233" height="2" rx="1" fill="url(#r-stats)"/>
+</svg>

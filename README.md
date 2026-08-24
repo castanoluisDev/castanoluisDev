@@ -4,13 +4,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E_+UX%2FUI+Designer+%7C+Master+in+UX%2FUI+Design;%3E_+Frontend+Developer+%7C+AI-Powered+Solutions;%3E_+%2B10+Apps+%26+Webs+Designed+%26+Deployed;%3E_+Turning+Ideas+Into+Digital+Experiences)](https://github.com/castanoluisDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=170&lines=%3E_+UX%2FUI+Designer+%7C+Master+in+UX%2FUI+Design;%3E_+Frontend+Developer+%7C+AI-Powered+Solutions;%3E_+%2B10+Apps+%26+Webs+Designed+%26+Deployed;%3E_+Turning+Ideas+Into+Digital+Experiences)](https://github.com/castanoluisDev)
 
 </div>
 
 <img src="assets/rule.svg" width="100%" alt=""/>
 
-## `> whoami`
+## <img src="assets/h-whoami.svg" width="134" alt="&gt; whoami"/>
 
 <div align="center">
 <br/>
@@ -38,7 +38,7 @@
 
 <img src="assets/rule.svg" width="100%" alt=""/>
 
-## `> tech_stack --list`
+## <img src="assets/h-tech-stack.svg" width="272" alt="&gt; tech_stack --list"/>
 
 <div align="center">
 <br/>
@@ -100,7 +100,7 @@
 
 <img src="assets/rule.svg" width="100%" alt=""/>
 
-## `> services --verbose`
+## <img src="assets/h-services.svg" width="285" alt="&gt; services --verbose"/>
 
 <div align="center">
 <br/>
@@ -111,7 +111,7 @@
 
 <img src="assets/rule.svg" width="100%" alt=""/>
 
-## `> git stats --all`
+## <img src="assets/h-stats.svg" width="247" alt="&gt; git stats --all"/>
 
 <div align="center">
 <br/>
@@ -129,7 +129,7 @@
 
 <img src="assets/rule.svg" width="100%" alt=""/>
 
-## `> contributions --snake`
+## <img src="assets/h-snake.svg" width="323" alt="&gt; contributions --snake"/>
 
 <div align="center">
 <br/>
@@ -144,7 +144,7 @@
 
 <img src="assets/rule.svg" width="100%" alt=""/>
 
-## `> contact --hire-me`
+## <img src="assets/h-contact.svg" width="272" alt="&gt; contact --hire-me"/>
 
 <div align="center">
 <br/>
